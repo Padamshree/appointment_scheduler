@@ -1,6 +1,7 @@
 Appointment scheduler
 
 Backend - Node + Firebase
+
 Frontend - React + Redux
 
 
